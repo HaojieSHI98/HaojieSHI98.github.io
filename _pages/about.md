@@ -27,11 +27,17 @@ Publications
 
 1.*Reinforcement learning with evolutionary trajectory generator: A general approach for quadrupedal locomotion.* **Haojie Shi***, Bo Zhou*, Hongsheng Zeng, Fan Wang, Yueqiang Dong, Jiangyong Li, Kang Wang, Hao Tian, Max Q-H Meng. IEEE Robotics and Automation Letters with ICRA, 2022. [[paper](https://arxiv.org/pdf/2109.06409.pdf)] 
 
-2.*Deep koopman operator with control for nonlinear systems* **Haojie Shi**, Max Q-H Meng. IEEE Robotics and Automation Letters with IROS, 2022. [[paper](https://arxiv.org/pdf/2202.08004.pdf)]
+2.*Deep koopman operator with control for nonlinear systems.* **Haojie Shi**, Max Q-H Meng. IEEE Robotics and Automation Letters with IROS, 2022. [[paper](https://arxiv.org/pdf/2202.08004.pdf)]
 
 Teaching Experience
 =====
 * TA in Singals and Systems(ENGG2030) 2021-2022
+
+Contact Info
+=====
+* Email: h.shi@link.cuhk.edu.hk
+* Address: Room 432, Ho Sin-Hang Engineering Building, The Chinese University of Hong Kong,
+Shatin, N.T., Hong Kong
 
 
 
