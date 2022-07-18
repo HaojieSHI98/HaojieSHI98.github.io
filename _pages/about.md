@@ -25,9 +25,9 @@ Publications
 =====
 $\dagger$ indicates equal contribution, $*$ indicates corresponding authors.
 
-1.**Haojie Shi** $\dagger$, Bo Zhou $\dagger$, Hongsheng Zeng, Fan Wang\*, Yueqiang Dong, Jiangyong Li, Kang Wang, Hao Tian, Max Q-H Meng\*.  [Reinforcement learning with evolutionary trajectory generator: A general approach for quadrupedal locomotion.](https://arxiv.org/pdf/2109.06409.pdf) IEEE Robotics and Automation Letters with ICRA, 2022.
+1. **Haojie Shi** $\dagger$, Bo Zhou $\dagger$, Hongsheng Zeng, Fan Wang\*, Yueqiang Dong, Jiangyong Li, Kang Wang, Hao Tian, Max Q-H Meng\*.  [Reinforcement learning with evolutionary trajectory generator: A general approach for quadrupedal locomotion.](https://arxiv.org/pdf/2109.06409.pdf) IEEE Robotics and Automation Letters with ICRA, 2022.
 
-2.**Haojie Shi**, Max Q-H Meng*. [Deep koopman operator with control for nonlinear systems.](https://arxiv.org/pdf/2202.08004.pdf)  IEEE Robotics and Automation Letters with IROS, 2022.
+2. **Haojie Shi**, Max Q-H Meng*. [Deep koopman operator with control for nonlinear systems.](https://arxiv.org/pdf/2202.08004.pdf)  IEEE Robotics and Automation Letters with IROS, 2022.
 
 Teaching Experience
 =====
