@@ -18,16 +18,16 @@ Robotics, Learning-based control, Reinforcement learning.
 Preprints
 ======
 
-1.*INTERACTION Dataset: An INTERnational, Adversarial and Cooperative moTION Dataset in Interactive Driving Scenarios with Semantic Maps.* Wei Zhan, Liting Sun, Di Wang, **Haojie Shi**, Aubrey Clausse, Maximilian Naumann, Julius Kummerle, Hendrik Konigshof, Christoph Stiller, Arnaud de La Fortelle, Masayoshi Tomizuka. [[paper](https://arxiv.org/abs/1910.03088)]
+1. Wei Zhan, Liting Sun, Di Wang, **Haojie Shi**, Aubrey Clausse, Maximilian Naumann, Julius Kummerle, Hendrik Konigshof, Christoph Stiller, Arnaud de La Fortelle, Masayoshi Tomizuka. [INTERACTION Dataset: An INTERnational, Adversarial and Cooperative moTION Dataset in Interactive Driving Scenarios with Semantic Maps.](https://arxiv.org/abs/1910.03088)
 
 
 Publications
 =====
-\* indicates equal contribution.
+$\dagger$ indicates equal contribution, $*$ indicates corresponding authors.
 
-1.*Reinforcement learning with evolutionary trajectory generator: A general approach for quadrupedal locomotion.* **Haojie Shi***, Bo Zhou*, Hongsheng Zeng, Fan Wang, Yueqiang Dong, Jiangyong Li, Kang Wang, Hao Tian, Max Q-H Meng. IEEE Robotics and Automation Letters with ICRA, 2022. [[paper](https://arxiv.org/pdf/2109.06409.pdf)] 
+1.**Haojie Shi** $\dagger$, Bo Zhou $\dagger$, Hongsheng Zeng, Fan Wang\*, Yueqiang Dong, Jiangyong Li, Kang Wang, Hao Tian, Max Q-H Meng\*.  [Reinforcement learning with evolutionary trajectory generator: A general approach for quadrupedal locomotion.](https://arxiv.org/pdf/2109.06409.pdf) IEEE Robotics and Automation Letters with ICRA, 2022.
 
-2.*Deep koopman operator with control for nonlinear systems.* **Haojie Shi**, Max Q-H Meng. IEEE Robotics and Automation Letters with IROS, 2022. [[paper](https://arxiv.org/pdf/2202.08004.pdf)]
+2.**Haojie Shi**, Max Q-H Meng*. [Deep koopman operator with control for nonlinear systems.](https://arxiv.org/pdf/2202.08004.pdf)  IEEE Robotics and Automation Letters with IROS, 2022.
 
 Teaching Experience
 =====
