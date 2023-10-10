@@ -18,8 +18,8 @@ Robotics, Learning-based control, Reinforcement learning.
 Preprints
 ======
 
-1. Wei Zhan, Liting Sun, Di Wang, **Haojie Shi**, Aubrey Clausse, Maximilian Naumann, Julius Kummerle, Hendrik Konigshof, Christoph Stiller, Arnaud de La Fortelle, Masayoshi Tomizuka. [INTERACTION Dataset: An INTERnational, Adversarial and Cooperative moTION Dataset in Interactive Driving Scenarios with Semantic Maps.](https://arxiv.org/abs/1910.03088)
-2. Haojie Shi*, Qingxu Zhu*, Lei Han, Wanchao Chi, Tingguang Li, Max Q.-H. Meng. [Terrain-Aware Quadrupedal Locomotion via Reinforcement Learning.](https://arxiv.org/abs/2310.04675)
+1. Wei Zhan, Liting Sun, Di Wang, **Haojie Shi**, Aubrey Clausse, Maximilian Naumann, Julius Kummerle, Hendrik Konigshof, Christoph Stiller, Arnaud de La Fortelle, Masayoshi Tomizuka(2019). [INTERACTION Dataset: An INTERnational, Adversarial and Cooperative moTION Dataset in Interactive Driving Scenarios with Semantic Maps.](https://arxiv.org/abs/1910.03088)
+2. Haojie Shi*, Qingxu Zhu*, Lei Han, Wanchao Chi, Tingguang Li, Max Q.-H. Meng(2023). [Terrain-Aware Quadrupedal Locomotion via Reinforcement Learning.](https://arxiv.org/abs/2310.04675)
 3. Haojie Shi∗, Tingguang Li∗, Qingxu Zhu, Jiapeng Sheng, Lei Han and Max Q.-H. Meng(2023). [An Efficient Model-Based Approach on Learning Agile Motor Skills without Reinforcement.](https://haojieshi98.github.io/files/paper4.pdf) Submitted to ICRA2024.
 
 Publications
