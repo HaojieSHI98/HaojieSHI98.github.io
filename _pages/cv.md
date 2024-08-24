@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Automation, Harbin Institute of Technology, Harbin, China, 2020
-* Ph.D in Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China, 2024 (expected)
+* Ph.D in Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China, 2024 
 
 Work experience
 ======
@@ -31,7 +31,7 @@ Work experience
   * Baidu Inc., Shenzhen, China. 
   * Supervisor: Bo Zhou, Fan Wang
 
-* Research Intern (2022.3-current)
+* Research Intern (2022.3-2022.10)
   * Tencent Robotics X Lab
   * Supervisor: Dr. Tingguang Li, Qingxu Zhu
 
